@@ -5,26 +5,20 @@
 
 ## Requirements <a name="requirements"></a>
 
-This project aims to fulfill the following requirements:
-
 - **Product Category:**
-  - Display product categories in a Grid View.
-  - Show the number of products available in each category.
+  - Show product category in Grid View with number of product available in that category.
 
 - **Product List:**
-  - List products within a category in a List View.
-  - Implement pagination for better user experience.
+  - Show the list of products available in a category in List View with product image. Implementing Pagination is appreciable.
 
 - **Product Details:**
-  - Show detailed information about a product when clicked.
-  - Display the product image along with other relevant details.
+  - Show product details with image when clicking on a particular product from list.
 
 - **Product Checkout:**
-  - Enable users to add one or multiple products to their cart for checkout.
+  - Checkout one or multiple products.
 
 - **Profile Picture:**
-  - Allow users to set their profile picture.
-  - Options to capture a picture using the device camera or select from the gallery.
+  - Take picture from device camera or select from the gallery and set it as profile picture
 
 
 
